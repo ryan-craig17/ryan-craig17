@@ -1,6 +1,6 @@
 # Occupation
-I'm a software developer
-At my current job I am developing in Angular and .NET Core WebAPI
+I'm a software developer at the funnest company you could work for.
+I am developing in Angular and .NET Core WebAPI.
 
 # Interests
 Looking to explore Azure and AWS.
