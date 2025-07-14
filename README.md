@@ -1,5 +1,5 @@
 # Occupation
-I'm a full stack software developer by trade, currently using Angular and .NET Core.
+I'm a full stack software developer by trade.
 
 # Interests
 Looking to explore cloud infrastructure and AI development.
